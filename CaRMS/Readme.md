@@ -24,6 +24,12 @@ Numerical methods to approximate the real life phenomenon of the match are by th
 
 Questions:
 
+1. Why do we care about unmatched medical students/ match efficiency?
+    1. A year lost in physician training
+    2. Obligation to students to provide post-graduate training
+    3. Public accountability for public subsidy of medical education
+    4. cost of match to students
+    5. Stress of match on students and their health
 1. Where do unmatched students come from?
 2. What strategies are used for the match
     1. Apply to a specialty
